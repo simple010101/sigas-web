@@ -89,8 +89,8 @@ gulp.task('build', ['build:copy', 'build:remove']);
 // watch folder(s) or file(s), and what to do if change happens
 
 gulp.task('watch', function() {
-	gulp.watch('public/js/*.js', ['scripts']);
-	gulp.watch('public/scss/*.scss', ['compass']);
+	gulp.watch('sigas.de/js/*.js', ['scripts']);
+	gulp.watch('sigas.de/scss/*.scss', ['compass']);
 });
 
 /////////////////////////
