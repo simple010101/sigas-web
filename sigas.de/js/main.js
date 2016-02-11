@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	console.log("HELLO WORLD");
-	
 	console.log("OK");
+	
+	console.log("CHECK IT UP");
 });
