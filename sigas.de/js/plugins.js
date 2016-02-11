@@ -21,6 +21,11 @@
     }
 }());
 
+
+function doNothing() {
+	console.log("do nothing!");
+}
 // Place any jQuery/helper plugins in here.
 
 // plugin functions
+// if no plugins, delete file
